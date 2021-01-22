@@ -5,3 +5,5 @@ This code resources is a very simple code you also will find on entire internet 
 Contain : 
 1. C++ codes.
 2. Python codes.
+
+ALL CODES ARE IN INDONESIAN LANGUAGE !
