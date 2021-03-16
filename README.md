@@ -6,5 +6,6 @@ This code resources is a very simple codes that you will find also on the entire
 Contain : 
 1. C++ codes.
 2. Python codes.
+3. Java codes.
 
-ALL CODES ARE IN INDONESIAN LANGUAGE !
+ALL CODES ARE IN INDONESIAN LANGUAGE ! :ID:
