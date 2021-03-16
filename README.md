@@ -8,4 +8,4 @@ Contain :
 2. Python codes.
 3. Java codes.
 
-ALL CODES ARE IN INDONESIAN LANGUAGE ! :ID:
+ALL CODES ARE IN INDONESIAN LANGUAGE ! 🇮🇩
