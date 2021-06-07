@@ -18,8 +18,10 @@ int max_of_inputed(int a, int b, int c, int d){
 }
 int main() {
     int a, b, c, d;
+    printf("Input the number 4 times (with spaces) = " );
     scanf("%d %d %d %d", &a, &b, &c, &d);
     int ans = max_of_inputed(a, b, c, d);
+    printf("Biggest number = result = ");
     printf("%d", ans);
     
     return 0;
