@@ -5,7 +5,7 @@ void update(int *a,int *b) {
     // Complete this function  
     int c = (*a);
     (*a) += (*b);
-    (*b) = abs(c-(*b));
+    (*b) = abs(c-(*b));  //Absolute function example
     
 }
 int main() {
@@ -18,3 +18,4 @@ int main() {
 
     return 0;
 }
+
